@@ -1,4 +1,4 @@
-**FAQ**
+# Frequently Asked Questions
 
 1. Why branches?
 >Because you should.
